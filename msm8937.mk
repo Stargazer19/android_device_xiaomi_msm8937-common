@@ -235,7 +235,9 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.sh \
     init.qcom.sh \
     init.target.rc \
-    fstab.qcom
+    fstab.qcom \
+	init.spectrum.rc \
+    init.spectrum.sh
 
 # Keymaster
 PRODUCT_PACKAGES += \
