@@ -32,3 +32,6 @@
 # Vibration
 /sys/class/timed_output/vibrator/vmax_mv            u:object_r:sysfs_vibrator:s0
 /sys/class/timed_output/vibrator/vtg_level           u:object_r:sysfs_vibrator:s0 
+
+# DT2W
+/sys/android_touch/doubletap2wake                                     u:object_r:sysfs_dt2w:s0
