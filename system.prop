@@ -41,7 +41,7 @@ persist.vendor.bt.enable.splita2dp=false
 vendor.qcom.bluetooth.soc=smd
 
 # Camera
-vendor.camera.hal1.packagelist=com.skype.raider,com.google.android.talk
+vendor.camera.hal1.packagelist=com.whatsapp,com.facebook.katana,com.instagram.android,com.snapchat.android
 persist.vendor.camera.display.umax=2560x1440
 persist.vendor.camera.display.lmax=1280x720
 persist.camera.is_type=2
